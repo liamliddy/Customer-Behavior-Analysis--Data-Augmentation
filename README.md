@@ -8,7 +8,7 @@ The goal is to identify high‑value customer segments and support smarter marke
 
 ## **Pipeline Overview**
 
-## **1. Data Source**
+### **1. Data Source**
 - Imported the **Muhammad Hussnain Customer Behaviour Dataset** as the baseline dataset.
 - https://www.kaggle.com/datasets/muhammadhussnain09/customer-behaviour-dataset
 
@@ -31,13 +31,15 @@ The goal is to identify high‑value customer segments and support smarter marke
 # **Tech Stack**
 
 ## **Data Engineering**
-- 🐍 **Python**  
+
+### 🐍 **Python**  
   - pandas  
   - os  
   - csv
     
 ## **Analytics & Visualization**
-- 📊 **Power BI**
+
+### 📊 **Power BI**
   - **Power Query** for data profiling, type enforcement, and column creation 
   - **DAX** for calculated measures such as:
     - R² correlation matrices to evaluate relationships between demographic and behavioral variables.
