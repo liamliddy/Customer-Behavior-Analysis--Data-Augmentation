@@ -30,12 +30,13 @@ The goal is to identify high‑value customer segments and support smarter marke
 
 # **Tech Stack**
 
-## **Python**  
+## **Data Engineering**
+### **Python**  
   - pandas  
   - os  
   - csv
-    
-## **Power BI**
+## **Analytics & Visualization**    
+### **Power BI**
   - **Power Query** for data profiling, type enforcement, and column creation 
   - **DAX** for calculated measures such as:
     - R² correlation matrices to evaluate relationships between demographic and behavioral variables.
