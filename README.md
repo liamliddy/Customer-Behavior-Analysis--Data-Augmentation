@@ -30,23 +30,20 @@ The goal is to identify high‑value customer segments and support smarter marke
 
 # **Tech Stack**
 
-## 🐍 **Data Engineering**
-- **Python**  
-  - `pandas`  
-  - `os`  
-  - `csv`  
-- Custom data synthesis logic for dataset expansion.
-
-## 📊 **Analytics & Visualization**
-- **Power BI**
-  - **Power Query** for data profiling and type enforcement  
-  - **DAX** for calculated measures such as:  
+## **Data Engineering**
+- 🐍 **Python**  
+  - pandas  
+  - os  
+  - csv
+    
+## **Analytics & Visualization**
+- 📊 **Power BI**
+  - **Power Query** for data profiling, type enforcement, and column creation 
+  - **DAX** for calculated measures such as:
+    - R² correlation matrices to evaluate relationships between demographic and behavioral variables.
     - Average Spending per Visit  
     - Income‑to‑Score Correlation  
   - Multi‑page interactive dashboards for segmentation & trend insights
-
-## 📐 **Statistical Analysis**
-- R² correlation matrices to evaluate relationships between demographic and behavioral variables.
 
 ---
 
