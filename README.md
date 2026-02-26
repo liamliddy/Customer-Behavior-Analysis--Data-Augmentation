@@ -2,7 +2,7 @@
 
 ## **Objective**
 Analyze key drivers of customer engagement and spending patterns using a foundational dataset of customer interactions. This project explores how demographic factors (Age, Gender) relate to behavioral metrics such as Income, Spending Score, and Visit Frequency.  
-The goal is to identify high‑value customer segments and support smarter, data‑driven marketing strategies.
+The goal is to identify high‑value customer segments and support smarter marketing strategies, to increase profits and accelerate customer engagement. 
 
 ---
 
@@ -14,6 +14,7 @@ The goal is to identify high‑value customer segments and support smarter, data
 
 ### **2. Data Augmentation**
 - Built a custom Python script to generate synthetic customer records.
+  - Increased the sample size of dataset to simulate more customer data.
 - Applied a **stochastic noise algorithm** (±5–10%) to:
   - Age  
   - Income  
